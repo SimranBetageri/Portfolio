@@ -16,8 +16,8 @@ Projects
 Project 1: Facial Expression Music Player
 Description: This Project uses an application to scan the face to detect facial Expression
 using an algorithm HAAR CASCADE
-Technologies Used: Python, Machine learning, JSON, Sptingboot, HTML, CSS etc
-Github Link: [[Link to the repository]](https://github.com/SimranBetageri/Face-Expression-based-Music-Player)
+Technologies Used: Python, Machine learning, JSON, Sptingboot, HTML, CSS, etc
+Github Link:(https://github.com/SimranBetageri/Face-Expression-based-Music-Player)
 
 Project 2: Weather App
 Description: Weather App is an Android app for Android devices that allows users to check the real-time weather conditions for any particular location. It is an app that fetches data from multiple sources, by presenting forecasts, humidity, temperature, and so on.
